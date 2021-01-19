@@ -35,8 +35,6 @@ Instructions:
 
 Limitations:
 1. All specifications have been implemented
-1. did not get a chance to create the make files, so the programs
-	 will have to be compiled manually
 1. You might recieve some warnings when compiling Task II, but
 	 don't fret.
 1. Task I only takes the first 10 values, but Task II takes n
